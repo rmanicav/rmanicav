@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi, I’m Rajesh Manicavasagam
 
-<!--
-**rmanicav/rmanicav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning Engineer with 14+ years of software engineering experience
+and a PhD in applied machine learning, cybersecurity, and smart grid analytics.
 
-Here are some ideas to get you started:
+### 🔬 Areas of Interest
+- Machine Learning & Deep Learning
+- LLMs and Agent-based AI systems
+- Time-Series Forecasting
+- Applied AI for Cybersecurity & Energy Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects
+- Smart Grid Intrusion Detection using ML
+- Demand Response Forecasting & Security Analytics
+- 21 Projects in ML, Deep Learning & GenAI
+
+### 🛠 Tech Stack
+Python | PyTorch | TensorFlow | Scikit-learn | Pandas | NumPy | AWS | Docker
+
+📫 GitHub: https://github.com/rmanicav
