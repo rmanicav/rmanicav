@@ -8,6 +8,8 @@ and a PhD in applied machine learning, cybersecurity, and smart grid analytics.
 - LLMs and Agent-based AI systems
 - Time-Series Forecasting
 - Applied AI for Cybersecurity & Energy Systems
+- Applied machine learning research for energy systems and cyber-physical systems
+
 
 ### 📌 Featured Projects
 - Smart Grid Intrusion Detection using ML
