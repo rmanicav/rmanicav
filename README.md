@@ -9,6 +9,8 @@ and a PhD in applied machine learning, cybersecurity, and smart grid analytics.
 - Time-Series Forecasting
 - Applied AI for Cybersecurity & Energy Systems
 - Applied machine learning research for energy systems and cyber-physical systems
+- Scientific Computing: HPC environments, MPI (C++), Linux, reproducible pipelines
+
 
 
 ### 📌 Featured Projects
