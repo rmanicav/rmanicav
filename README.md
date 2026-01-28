@@ -10,6 +10,7 @@ and a PhD in applied machine learning, cybersecurity, and smart grid analytics.
 - Applied AI for Cybersecurity & Energy Systems
 - Applied machine learning research for energy systems and cyber-physical systems
 - Scientific Computing: HPC environments, MPI (C++), Linux, reproducible pipelines
+- Software Engineering, automated code generation
 
 
 
