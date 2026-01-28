@@ -9,12 +9,12 @@ My background spans applied machine learning, scientific computing, cybersecurit
 Research & Technical Interests
 
 Research Software Engineering (RSE)
-Applied Data Science & Machine Learning
-Reproducible scientific workflows and data pipelines
-Time-series analysis and anomaly detection
-Security analysis of software-intensive and cyber-physical systems
-High-performance computing (HPC) and parallel simulations
-Experimental AI systems and LLM-based research prototypes
+- Applied Data Science & Machine Learning
+- Reproducible scientific workflows and data pipelines
+- Time-series analysis and anomaly detection
+- Security analysis of software-intensive and cyber-physical systems
+- High-performance computing (HPC) and parallel simulations
+- Experimental AI systems and LLM-based research prototypes
 
 
 Selected Projects
@@ -45,11 +45,11 @@ Topics: scientific computing, parallelization, performance
 
 🧰 Technical Skills
 
-Programming: Python, C++, SQL, Bash
-Data Science & ML: scikit-learn, PyTorch, TensorFlow
-Scientific Computing: NumPy, Pandas
-Systems & Tooling: Linux, Git, Docker
-Practices: research software engineering, reproducibility, code quality
+-Programming: Python, C++, SQL, Bash, C#
+-Data Science & ML: scikit-learn, PyTorch, TensorFlow
+-Scientific Computing: NumPy, Pandas,Matplot
+-Systems & Tooling: Linux, Git, Docker, kubernet
+-Practices: research software engineering, reproducibility, code quality
 
 🎓 Background
 
