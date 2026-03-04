@@ -1,69 +1,108 @@
-Dr. Rajesh Manicavasagam
+# Dr. Rajesh Manicavasagam
 
-Research Software Engineer | Applied Data Scientist | AI / ML Research
+Research Software Engineer specializing in **scientific computing, high-performance computing, and applied machine learning**.
 
-I am a Research Software Engineer and Applied Data Scientist with a PhD in Computer Engineering and over 14 years of professional experience in software engineering and applied research. My work focuses on developing robust, reproducible, and maintainable research software, as well as applying machine learning and data-driven methods to complex, real-world systems.
+PhD in Computer Engineering with 14+ years of experience developing scalable software systems and research software for complex data-driven environments.
 
-My background spans applied machine learning, scientific computing, cybersecurity-aware system analysis, and high-performance computing, with experience working closely with interdisciplinary research teams.
+My work focuses on building **reproducible experiments, HPC-enabled simulations, and applied ML systems** used in scientific and cyber-physical domains.
 
 ---
 
-## Research & Technical Interests
-- Research Software Engineering (RSE)
-- Applied Data Science & Machine Learning
-- Reproducible scientific workflows and data pipelines
-- Time-series analysis and anomaly detection
-- Security analysis of software-intensive and cyber-physical systems
-- High-performance computing (HPC) and parallel simulations
-- Experimental AI systems and LLM-based research prototypes
+## Research & Technical Focus
+
+- High Performance Computing (MPI, CUDA, SLURM)
+- Research Software Engineering
+- Applied Machine Learning
+- Scientific Computing
+- Cyber-Physical Systems & Smart Grid Analytics
+- Time-Series Forecasting & Anomaly Detection
+- Reproducible Computational Experiments
 
 ---
 
 ## Selected Research Projects
 
-🔹 Smart Grid Intrusion Detection (ML)  
-Machine learning–based detection of anomalies and attacks in smart grid and SCADA environments.  
-Technologies: Python, scikit-learn, PyTorch  
-Topics: anomaly detection, security analytics, critical infrastructure  
-https://github.com/rmanicav/smart-grid-intrusion-detection-ml  
+### HPC Flood Simulation
+Parallel flood propagation simulation implemented in **C++ with MPI** for distributed computing environments.
 
-🔹 Smart Grid Demand Response Forecasting  
-Time-series forecasting and anomaly detection for electricity demand using ARIMA, ML, and LSTM models.  
-Technologies: Python, NumPy, Pandas  
-Topics: time-series analysis, forecasting, applied statistics  
-https://github.com/rmanicav/smart-grid-demand-response-forecasting  
+Repository  
+https://github.com/rmanicav/hpc-flood-simulation-mpi
 
-🔹 High-Performance Scientific Computing (HPC)  
-C++/MPI-based simulation demonstrating parallel numerical workflows and scalable scientific computing.  
-Technologies: C++, MPI  
-Topics: scientific computing, parallelization, performance  
-https://github.com/rmanicav/Flood2D-HPC-Simulation-MPI  
+---
 
-🔹 Research Prototyping with LLMs  
-Experimental LLM-based pipelines and agent workflows for data analysis, automation, and knowledge extraction.  
-Technologies: Python, LLM frameworks  
-Topics: applied AI research, rapid prototyping  
+### Smart Grid Demand Response Forecasting
+Machine learning models for forecasting demand response behavior in cyber-physical energy systems.
+
+Technologies  
+Python, NumPy, Pandas, ML models
+
+Repository  
+https://github.com/rmanicav/smart-grid-demand-response-forecasting
+
+---
+
+### Smart Grid Intrusion Detection
+Machine learning techniques for detecting anomalous behavior in industrial control systems.
+
+Technologies  
+Python, scikit-learn, PyTorch
+
+Repository  
+https://github.com/rmanicav/smart-grid-intrusion-detection-ml
+
+---
+
+## Publications
+
+Selected peer-reviewed publications:
+
+• Relating Network Behavior to Demand Response during DDoS Attack in the Smart Grid  
+Future Technologies Conference (FTC), 2023
+
+• Testbed for Evaluating Smart Grid Behavior in Demand Response Scenarios  
+ICUMT 2022
+
+• Drug Repurposing for Rare Orphan Diseases Using Machine Learning Techniques  
+FLAIRS Conference, 2022
+
+Google Scholar  
+https://scholar.google.com/citations?user=2XswkUcAAAAJ
 
 ---
 
 ## Technical Skills
-- Programming: Python, C++, SQL, Bash, C#
-- Data Science & ML: scikit-learn, PyTorch, TensorFlow
-- Scientific Computing: NumPy, Pandas, Matplotlib
-- Systems & Tooling: Linux, Git, Docker, Kubernetes
-- Practices: research software engineering, reproducibility, code quality
+
+Programming  
+Python, C++, SQL, Bash, C#
+
+Machine Learning  
+scikit-learn, PyTorch, TensorFlow
+
+Scientific Computing  
+NumPy, Pandas
+
+Parallel Computing  
+MPI, CUDA, SLURM
+
+Systems  
+Linux, Docker, Kubernetes
 
 ---
 
-## Background
-- PhD in Computer Engineering (Applied Machine Learning)
-- Research experience in applied ML, cybersecurity analytics, and software-intensive systems
-- 14+ years of professional experience in large-scale, mission-critical software systems
+## Professional Background
+
+PhD in Computer Engineering (Applied Machine Learning)
+
+14+ years of software engineering experience building distributed and data-intensive systems.
+
+Experience collaborating with interdisciplinary research teams to translate research ideas into reliable software systems.
 
 ---
 
-## Availability
-Work authorization: Germany (Opportunity Card, valid from 01.03.2026)  
-Open to relocation within Germany
+## Contact
 
-Interested in Research Software Engineer, Applied Research Engineer, and Research Data Engineer roles in research or industry R&D environments.
+GitHub  
+https://github.com/rmanicav
+
+Google Scholar  
+https://scholar.google.com/citations?user=2XswkUcAAAAJ
